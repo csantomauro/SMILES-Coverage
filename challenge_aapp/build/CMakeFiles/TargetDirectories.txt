@@ -1,0 +1,3 @@
+/mnt/c/Users/csant/Documents/Università/Polimi/Semestre 5/Advanced Algorithms and Parallel Programming/SMILES coverage/challenge_aapp/build/CMakeFiles/main.dir
+/mnt/c/Users/csant/Documents/Università/Polimi/Semestre 5/Advanced Algorithms and Parallel Programming/SMILES coverage/challenge_aapp/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/csant/Documents/Università/Polimi/Semestre 5/Advanced Algorithms and Parallel Programming/SMILES coverage/challenge_aapp/build/CMakeFiles/rebuild_cache.dir

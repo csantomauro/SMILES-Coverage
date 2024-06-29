@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,-Bsymbolic-functions CMakeFiles/main.dir/src/main.cpp.o CMakeFiles/main.dir/src/mpi_error_check.cpp.o -o main  /usr/lib/x86_64-linux-gnu/libmpich.so 
